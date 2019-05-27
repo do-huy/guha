@@ -124,7 +124,7 @@ VDTexpress được thành lập vào ngày 2/5/2018, tự hào là  đơn vị 
   <div class="services">
     <div class="container">
       <div class="text-center">
-        <h2><b>Giới thiệu VDTexpress</b></h2>
+        <h2><b id="gioithieuvdt">Giới thiệu VDTexpress</b></h2>
       </div>
       <div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
         <i class="fas fa-bezier-curve"></i>
@@ -139,7 +139,7 @@ VDTexpress được thành lập vào ngày 2/5/2018, tự hào là  đơn vị 
       <div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
         <i class="fa fa-book"></i>
         <h3>Đội ngũ VDTexpress</h3>
-        <p>Làm việc tại VDTexpress mang đến cho các bạn tinh thần học hỏi, cầu tiến, công bằng, trao dồi kinh nghiệm giữa người củ và người mới . Thu nhập cạnh tranh lành mạnh, hưởng theo năng lực thật sự của chính mình . 
+        <p>Làm việc tại VDTexpress mang đến cho các bạn tinh thần học hỏi, cầu tiến, công bằng, trao dồi kinh nghiệm giữa người cũ và người mới . Thu nhập cạnh tranh lành mạnh, hưởng theo năng lực thật sự của chính mình . 
       </div>
       <div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
         <i class="fa fa-gear"></i>
@@ -152,7 +152,7 @@ VDTexpress được thành lập vào ngày 2/5/2018, tự hào là  đơn vị 
   <section class="action">
     <div class="container">
       <div class="left-text hidden-xs">
-        <h4>Ưu điểm VDTexpress</h4>
+        <h4 id="gioithieuvdt">Ưu điểm VDTexpress</h4>
         <p>{{-- <em>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi ut explicabo magni sapiente.</em> --}} <i class="fas fa-check"></i> Lấy hàng, nhập hàng Sài Gòn - Mua Hộ hàng hóa<br>
 
 <i class="fas fa-check"></i> Gửi hàng thu tiền hộ Toàn Quốc dành cho Shop Online<br>
@@ -204,7 +204,7 @@ Hiện chúng tôi đã xây dựng được mạng lưới rộng Thành Phố 
           <img src="img/h1.jpg" alt="" class="img-responsive" />
           <figcaption>
             <h4>Phòng giao dịch tân an</h4>
-            <p> 98 Thủ Khoa Huân , Phường 1 , TP.Tân An - Hotline : 0937493534</p>
+            <p> 98 Thủ Khoa Huân , Phường 1 , TP.Tân An , Tỉnh Long An - Hotline : 0937493534</p>
           </figcaption>
         </figure>
       </div>
@@ -213,7 +213,7 @@ Hiện chúng tôi đã xây dựng được mạng lưới rộng Thành Phố 
           <img src="img/h3.jpg" alt="" class="img-responsive" />
           <figcaption>
             <h4>Phòng giao dịch bến lức</h4>
-            <p>13 Đường Số 2 , KDC Mai Thị Non , KP2 , TT.Bến Lức - Hotline : 0979939309</p>
+            <p>13 Đường Số 2 , KDC Mai Thị Non , KP2 , TT.Bến Lức , Tỉnh Long An - Hotline : 0979939309</p>
           </figcaption>
         </figure>
       </div>
@@ -234,7 +234,7 @@ Hiện chúng tôi đã xây dựng được mạng lưới rộng Thành Phố 
           <img src="img/h5.jpg" alt="" class="img-responsive" />
           <figcaption>
             <h4>Phòng giao dịch đức hòa</h4>
-            <p>322 KP4 , TT.Đức Hòa , Đức Hòa - Hotline : 0868235509</p>
+            <p>322 KP4 , Thị Trấn Đức Hòa , Huyện Đức Hòa , Tỉnh Long An - Hotline : 0868235509</p>
           </figcaption>
         </figure>
       </div>
@@ -243,7 +243,7 @@ Hiện chúng tôi đã xây dựng được mạng lưới rộng Thành Phố 
           <img src="img/h6.jpg" alt="" class="img-responsive" />
           <figcaption>
             <h4>Phòng giao dịch đức huệ</h4>
-            <p>86 Đường 838 KP1 , TT.Đông Thành - Hotline : 0388563053</p>
+            <p>86 Đường 838 KP1 , TT.Đông Thành , Huyện Đức Huệ , T.Long An - Hotline : 0388563053</p>
           </figcaption>
         </figure>
       </div>

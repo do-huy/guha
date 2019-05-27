@@ -11,6 +11,26 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+// Route::get('/', function () {
+//     return view('index');
+// });
+Route::get('/', [
+    'as' => 'index', 
+    'uses' => 'MainController@index'
+]);
+Route::get('introduce', [
+    'as' => 'introduce', 
+    'uses' => 'MainController@introduce'
+]);
+Route::get('contact', [
+    'as' => 'contact', 
+    'uses' => 'MainController@contact'
+]);
+Route::get('price', [
+    'as' => 'price', 
+    'uses' => 'MainController@price'
+]);
+Route::get('service', [
+    'as' => 'service', 
+    'uses' => 'MainController@service'
+]);

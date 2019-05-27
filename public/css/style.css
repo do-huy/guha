@@ -933,13 +933,53 @@ p {
 
 footer {
     padding: 50px;
-    background: #ccc !important;
+    background: #f2f2f2 !important;
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
     color: #fff;
     background-color: #ccc !important;
 }
+
+#gioithieuvdt{
+  color: #AA0000 ;
+}
+#pog{
+  font-size: 13.5px;
+}
+
+#por{
+  color: #aaaaaa;
+}
+figure.effect-marley p {
+    bottom: -23px !important;
+    color: #fff;
+    line-height: 1.5;
+    -webkit-transform: translate3d(0,100%,0);
+    transform: translate3d(0,100%,0);
+}
+.mapssss{
+  margin: 20px 0px;
+}
+#bkt {
+    width: 100%;
+    max-height: 3px;
+    margin-bottom: 20px;
+}
+#lele{
+  color: #AA0000 ;
+  text-transform: uppercase;
+  font-weight: 550;
+  font-size: 24px;
+  text-align: center;
+}
+#bhghg{
+  color: #AA0000 ;
+}
+
+
+
+
 
 
 
